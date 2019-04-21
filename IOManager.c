@@ -1,0 +1,3 @@
+/*
+  This module is used actually interface with Sensors and take necessary action when instructed
+*/

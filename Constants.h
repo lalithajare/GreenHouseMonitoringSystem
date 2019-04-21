@@ -1,0 +1,7 @@
+#ifndef CONSTANTS_H_INCLUDED
+#define CONSTANTS_H_INCLUDED
+
+	const int TEMP_THRESHOLD = 40;
+	const int HUMIDITY_THRESHOLD = 10;
+
+#endif

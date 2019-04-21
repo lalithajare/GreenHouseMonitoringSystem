@@ -1,0 +1,3 @@
+/*
+  This module is used to update the current state of system on LCD.
+*/
