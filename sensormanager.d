@@ -1,1 +1,0 @@
-sensormanager.o: SensorManager.c
