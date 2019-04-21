@@ -11,7 +11,7 @@
 
 
 	//Takes temperature reading from IOManager
-   	int demandTemperatureData();
+   	int demandTemperatureData(void);
 
 	//Takes humidity reading from IOManager
 	int demandHumidityData();
