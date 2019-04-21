@@ -14,7 +14,7 @@
    	int demandTemperatureData(void);
 
 	//Takes humidity reading from IOManager
-	int demandHumidityData();
+	int demandHumidityData(void);
 
 	//Updates sensor information after every 2 secs 
 	//Updates LCD & Instructs Storage Module to store the data
